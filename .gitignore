@@ -60,3 +60,18 @@ gh
 
 # MCP config (contains sensitive info)
 mcp_github_config.json
+
+# Test files
+test_output.log
+
+# Migrations (optional - usually commit these)
+# */migrations/0*.py
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Temporary files
+temp/
+tmp/
